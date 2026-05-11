@@ -1,1 +1,51 @@
+# Local project notes and agent artifacts
+.codex/
+.claude/
+.agents/
 docs/superpowers/
+
+# Go build and test outputs
+bin/
+build/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.out
+coverage.html
+*.coverprofile
+
+# Go workspace and vendored dependencies
+go.work
+go.work.sum
+vendor/
+
+# Logs and runtime files
+*.log
+*.pid
+*.seed
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
