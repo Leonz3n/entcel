@@ -1,6 +1,6 @@
 # entcel is archived
 
-This repository has moved to github.com/leonz3n/celdsl.
+This repository has moved to [celdsl](github.com/leonz3n/celdsl).
 
 `entcel` started as a CEL-to-entgo SQL predicate compiler. The project has
 expanded toward compiling declared CEL filters into multiple query DSL
