@@ -1,3 +1,11 @@
+# entcel is archived
+
+This repository has moved to github.com/leonz3n/celdsl.
+
+`entcel` started as a CEL-to-entgo SQL predicate compiler. The project has
+expanded toward compiling declared CEL filters into multiple query DSL
+backends, including entgo SQL predicates and OpenSearch Query DSL.
+
 # entcel
 
 Compile CEL filters into entgo SQL predicates.
